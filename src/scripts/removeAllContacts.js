@@ -1,4 +1,4 @@
-import { writeContacts } from '../utils/writeContacts.js';
+import writeContacts from '../utils/writeContacts.js';
 
 const removeAllContacts = async () => {
   try {
